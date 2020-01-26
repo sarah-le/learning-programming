@@ -1,0 +1,10 @@
+0) Your homework should be created in a file called '2_variables_hw.cpp'.
+
+1) Declare variables that contain your:
+    a) Full name
+    b) Your sex represented as a letter e.g., 'F'
+    c) Age
+    d) Height (rounded to the nearest tenth e.g., 1.0)
+    e) Whther or not you like chocolate, represented as true or false.
+
+2) Print all the variables to the terminal/debug console.

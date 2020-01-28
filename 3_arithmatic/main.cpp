@@ -24,4 +24,6 @@ int main (void)
 
     std::cout << first_and_last_name << std::endl;
 
+    return 0;
+
 }

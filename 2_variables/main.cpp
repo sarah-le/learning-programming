@@ -16,4 +16,6 @@ int main(void)
     std::cout << my_double << std::endl;
     std::cout << yeeee << std::endl;
     std::cout << hello_world << std::endl;
+
+    return 0;
 }

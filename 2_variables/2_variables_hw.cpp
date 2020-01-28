@@ -15,4 +15,5 @@ int main(void)
     std::cout << height << std::endl;
     std::cout << like_chocolate << std::endl;
 
+    return 0;
 }

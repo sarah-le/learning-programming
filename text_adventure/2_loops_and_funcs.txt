@@ -1,0 +1,28 @@
+1) Using your knowledge of loops add in the appropriate loop to prevent the player from entering invalid data for various selections
+2) Using your knowledge of functions, split your code up into appropriate functions to remove redundancy/repetition as well as clean up your code
+3) Add the follow variables that will be used to keep track of player stats:
+    * HP (Hit points)
+    * MP (Mana points)
+    * Level
+4) Using your knowledge of functions, creating the following:
+    * A function that reduces the player's hit points
+    * A function that reduces the player's mana points
+5) Using your knowledge of loops, add a menu that is shown to the player after the game's introduction that:
+    * Contains 3 options (for now):
+        * Damage HP (This should use the function you created earlier)
+        * Reduce MP (This should use the function you created earlier)
+        * Quit (This should exit the game. HINT: Think of while loops)
+    * Requires to player to enter a number corresponding to a menu option, i.e. (1, 2, 3)
+    * If a player enters a value that is not a valid menu option, the following should occur:
+        * The menu should re-display
+        * An error message should display beneath the menu letting the player know they entered an invalid value
+        * The player should be able to enter another value until they quit the game
+
+NOTES:
+    * This assignment is out of 100%.
+    * For this assignment, do not worry about how to 'save' any of the data as we have not learnt about this yet.
+    * Extra marks will be given for concise and well named variables.
+    * Extra marks will be given for proper and well thought storage of variables.
+        (correct variable type/not repeating information)
+    * Marks will be deducted for uncommented code
+    * Marks will be deducted for general messy code.

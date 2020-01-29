@@ -15,7 +15,7 @@
 
 NOTES:
     * This assignment is out of 100%.
-    *For this assignment do not worry about the player inputing invalid data such as:
+    * For this assignment do not worry about the player inputing invalid data such as:
         * Weird length names or town names.
         * Not entering one of the class/advanced class/gender options listed.
         We will learn how to prevent this in the near future.

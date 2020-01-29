@@ -14,6 +14,7 @@
 4) Using the information gathered, form a sentence that begins the story of their adventure with all of the details listed above.
 
 NOTES:
+    * This assignment is out of 100%.
     *For this assignment do not worry about the player inputing invalid data such as:
         * Weird length names or town names.
         * Not entering one of the class/advanced class/gender options listed.

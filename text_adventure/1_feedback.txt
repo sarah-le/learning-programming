@@ -1,0 +1,20 @@
+Marking feedback
+(-5%) - No choices for Race, needed at least 3 listed
+
+
+Advice (No loss of marks)
+* Keep consistency with comment style, i.e. // T or //T it is a matter of preference, but // T does look better
+* Not really something wrong, however the assignment had worded that the advanced class was an "aspiration" meaning that they weren't yet that advanced class, but aspired to be. (This is because later on when we introduce levels, they will become that advanced class once they level up). I would change this so that it will make more sense when these future elements are introduced.
+* I would maybe re-word some of the advanced classes, as when I specialize in Dark under Mage, it says that I am the "Dark class" which seems a bit ambiguous.
+* Read the specification fully
+
+NOTES (Keep doing this, good work!)
+* Good comments, easy to read and precise/to the point
+* Code is styled very well:
+    * Good indenting
+    * Good separation of code to make it clear
+* Well named variables
+* Good usage of getline, using it where it makes sense
+
+Overall Marks for Assignment 1:
+95/100

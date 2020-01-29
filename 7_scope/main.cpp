@@ -18,10 +18,8 @@ int main(void)
         std::cout << i + 1 << std::endl;
     }
 
-    for(int i = 10; i > 1; i--);
+    for(int i = 10; i > 1; i--)
     {
-        std::cout << "Hello!" << std::endl;
-        int i = 0;
         std::cout << i << std::endl;
     }
 

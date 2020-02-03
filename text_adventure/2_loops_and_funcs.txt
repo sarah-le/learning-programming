@@ -1,6 +1,6 @@
 1) Using your knowledge of loops add in the appropriate loop to prevent the player from entering invalid data for various selections
 2) Using your knowledge of functions, split your code up into appropriate functions to remove redundancy/repetition as well as clean up your code
-3) Add the follow variables that will be used to keep track of player stats:
+3) Add the following variables that will be used to keep track of player stats:
     * HP (Hit points)
     * MP (Mana points)
     * Level

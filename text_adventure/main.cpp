@@ -137,6 +137,8 @@ int main(void)
             menu_choice = menu(menu_choice);
         }
     }   
+
+    return 0;
 }
 
 // a function that means users can only answer 3 options and makes them repeat answer if incorrect

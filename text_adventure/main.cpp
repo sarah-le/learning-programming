@@ -106,7 +106,8 @@ int main(void)
 
         if (menu_choice == 1)
         {
-            std::cout << hp << std::endl;
+            hp = current_hp(hp, attack_damage);
+            std::cout << "You took " + std::to_string(attack_damage) + ", and now your HP is: " << hp << std::endl;
         }
         else if (menu_choice == 2)
         {
@@ -177,7 +178,7 @@ std::string choosing_advanced_class(std::string class_options, std::string choic
 // A function that prints the users hp
 int current_hp(int hp, int attack_damage)
 {
-    hp -= attack_damage;
+    return hp -= attack_damage;
 }
 
 // A function that prints the users mp
